@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[iambhvsh | Blog]]></title>
+        <description><![CDATA[iambhvsh | Blog]]></description>
+        <link>https://iambhvsh.vercel.app</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Sat, 23 Mar 2024 13:39:32 GMT</lastBuildDate>
+        <atom:link href="https://iambhvsh.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Artificial Intelligence: Balancing Opportunities and Risks]]></title>
+            <description><![CDATA[AI presents vast opportunities for innovation but also raises concerns regarding privacy, ethics, and bias...]]></description>
+            <link>https://iambhvsh.vercel.app/posts/artificial-intelligence-balancing-opportunities-and-risks</link>
+            <guid isPermaLink="true">https://iambhvsh.vercel.app/posts/artificial-intelligence-balancing-opportunities-and-risks</guid>
+            <pubDate>Sun, 25 Feb 2024 05:35:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[How this website came into existence?]]></title>
+            <description><![CDATA[Bhavesh's website journey began with struggles on Termux, but after transitioning to UserLand and deploying Ubuntu on Android, they triumphed over setup hurdles to create and launch their Next.js site, exemplifying perseverance and ingenuity.]]></description>
+            <link>https://iambhvsh.vercel.app/posts/how-this-website-came-into-existence</link>
+            <guid isPermaLink="true">https://iambhvsh.vercel.app/posts/how-this-website-came-into-existence</guid>
+            <pubDate>Sun, 25 Feb 2024 05:35:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Navigating the Labyrinth of Minimum Support Price (MSP) in Agriculture: An Expository Expedition 🌾🚜]]></title>
+            <description><![CDATA[Explore MSP's labyrinth: farmer lifeline, market stabilizer, policy puzzle. Navigate complexities for sustainable agriculture.]]></description>
+            <link>https://iambhvsh.vercel.app/posts/navigating-agricultural-maze-msp-system-explained</link>
+            <guid isPermaLink="true">https://iambhvsh.vercel.app/posts/navigating-agricultural-maze-msp-system-explained</guid>
+            <pubDate>Thu, 14 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tailwind CSS - Cheatsheet]]></title>
+            <description><![CDATA[All Tailwind CSS Classes are expalined in easy way.]]></description>
+            <link>https://iambhvsh.vercel.app/posts/tailwindcss-cheatsheet</link>
+            <guid isPermaLink="true">https://iambhvsh.vercel.app/posts/tailwindcss-cheatsheet</guid>
+            <pubDate>Sun, 17 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The fall of worlds best airline - Air India]]></title>
+            <description><![CDATA[Let's unfold the mystery behind the fall of worlds best airline - Air India...]]></description>
+            <link>https://iambhvsh.vercel.app/posts/the-fall-of-air-india</link>
+            <guid isPermaLink="true">https://iambhvsh.vercel.app/posts/the-fall-of-air-india</guid>
+            <pubDate>Wed, 06 Mar 2024 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
