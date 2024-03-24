@@ -184,9 +184,9 @@ export default function About() {
       <div className="mb-8">
         <p className="text-xl font-semibold mb-2">Check out my projects:</p>
         <ul className="list-disc pl-4">
-          <li className="mb-2"><Link href="https://pixelpulsestore.vercel.app" className="text-blue-500 hover:underline">PixelPulse Store (App Store)</Link> - Discover and explore the PixelPulse Store 📱</li>
+          <li className="mb-2"><Link href="https://pixelpulsestore.vercel.app" className="text-blue-500 hover:underline">PixelPulse Store - App Store</Link> - Discover and explore the PixelPulse Store 📱</li>
           <li className="mb-2"><Link href="https://file-downloaderr.vercel.app" className="text-blue-500 hover:underline">File Downloader</Link> - Access the File Downloader tool 💾</li>
-          <li className="mb-2"><Link href="https://stackx.vercel.app" className="text-blue-500 hover:underline">StackX (Search Engine)</Link> - Dive into StackX, your personal search engine 🔍</li>
+          <li className="mb-2"><Link href="https://stackx.vercel.app" className="text-blue-500 hover:underline">StackX - Search Engine</Link> - Dive into StackX, your personal search engine 🔍</li>
           <li className="mb-2"><Link href="https://iambhvshchat.vercel.app" className="text-blue-500 hover:underline">Chat App</Link> - Connect and communicate via the Chat App 💬</li>
           <li className="mb-2"><Link href="https://iambhvsht.vercel.app" className="text-blue-500 hover:underline">iambhvsht</Link> - Explore the iambhvsht project 🚀</li>
         </ul>

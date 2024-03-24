@@ -219,7 +219,7 @@ ogImage:
     - Rose 200
     - Rose 300
     - Rose 400
-   - Rose 500
+    - Rose 500
     - Rose 600
     - Rose 700
     - Rose 800
@@ -242,7 +242,7 @@ ogImage:
 1. m{side}-{size}: Sets the margin on a specific side (e.g., mr-4 for right margin of 1rem).
 2. p{side}-{size}: Sets the padding on a specific side (e.g., pl-6 for left padding of 1.5rem).
 
-##Sizes
+## Sizes
 
 1. w-{size}: Sets the width (e.g., w-64 for 64px).
 2. h-{size}: Sets the height (e.g., h-16 for 16px).
