@@ -53,6 +53,25 @@ Civil society demands for change are growing louder by the day, like a chorus of
 
 ## FAQs
 ### 1. What are electoral bonds and how do they work?
+Electoral bonds are financial instruments introduced by the Government of India in 2018 for making donations to political parties. These bonds are like promissory notes and can be purchased by any Indian citizen or company from select banks. They allow individuals and corporations to donate money to political parties anonymously.
+
 ### 2. What specific allegations have been made by the Congress leader regarding the ₹62,000 crore projects?
+The Congress leader has alleged that the government awarded ₹62,000 crore worth of infrastructure projects to Chinese companies despite ongoing border tensions and calls for boycott of Chinese goods. The leader accused the government of prioritizing business interests over national security.
+
 ### 3. What is the government's response to the allegations of corruption in the electoral bond system?
+The government has denied allegations of corruption in the electoral bond system, stating that it enhances transparency and accountability in political funding. They argue that electoral bonds bring about greater formalization of the economy and curb black money in political funding.
+
 ### 4. What are some proposed reforms to enhance transparency and accountability in political funding through electoral bonds?
+Proposed reforms to enhance transparency and accountability in political funding through electoral bonds include:
+
+- Requiring disclosure of donors' identities to the Election Commission.
+- Ensuring that only Indian citizens and companies with transparent ownership can purchase electoral bonds.
+- Establishing an independent oversight mechanism to monitor political funding and investigate any irregularities.
+- Implementing stricter penalties for violations of campaign finance laws.
+
+## Thank you for reading ❤️
+### Do share it with your Friends & Family 
+
+```
+https://iambhvsh.vercel.app/posts/electoral-bond-scam-by-indian-political-party-bjp
+```
