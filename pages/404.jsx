@@ -1,6 +1,5 @@
 import Head from 'next/head';
 import Link from 'next/link';
-import { FiAlertCircle } from 'react-icons/fi'; // Import an icon for added visual appeal
 import PageHeading from '../components/PageHeading';
 
 function Custom404() {
@@ -11,7 +10,6 @@ function Custom404() {
       </Head>
       <div className="text-center">
         <div className="text-center">
-          <FiAlertCircle className="text-9xl mx-auto mb-4 animate-bounce" /> {/* Add an animated icon */}
           <PageHeading>404</PageHeading> {/* Decrease font size for better readability */}
           <p className="text-xl mb-8">The page you&apos;mre looking for doesn't seem to exist.</p> {/* Decrease font size for better readability */}
         </div>
