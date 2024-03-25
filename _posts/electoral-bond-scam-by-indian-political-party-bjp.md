@@ -2,7 +2,7 @@
 title: 'Congress Alleges ₹62,000 Crore Electoral Bonds Scandal'
 excerpt: 'In a recent revelation, Congress has alleged a staggering ₹62,000 crore scandal surrounding electoral bonds, highlighting potential corruption within the political financing system.'
 coverImage: '/assets/blog/electoral-bond-scam-by-indian-political-party-bjp/meta-image.png'
-date: '2024-25-03T08:32:07.322Z'
+date: '2024-03-25T08:32:07.322Z'
 author:
   name: Bhavesh Patil
   picture: '/assets/blog/authors/iambhvsh.png'
