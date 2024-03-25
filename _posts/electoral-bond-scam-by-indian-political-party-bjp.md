@@ -84,6 +84,5 @@ Proposed reforms to enhance transparency and accountability in political funding
 ## Thank you ❤️
 ### Share 
 
-```
-https://iambhvsh.vercel.app/posts/electoral-bond-scam-by-indian-political-party-bjp
-```
+<p style="color: #007aff;">https://iambhvsh.vercel.app/posts/electoral-bond-scam-by-indian-political-party-bjp</p>
+
