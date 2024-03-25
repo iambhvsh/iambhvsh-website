@@ -10,7 +10,7 @@ ogImage:
   url: '/assets/blog/electoral-bond-scam-by-indian-political-party-bjp/meta-image.png'
 ---
 
-## Electoral Bonds data Under the 'post-paid' category, the Congress leader alleged that ₹62,000 crore worth of projects were given by the Union government
+**Electoral Bonds data Under the 'post-paid' category, the Congress leader alleged that ₹62,000 crore worth of projects were given by the Union government**
 
 The controversy surrounding electoral bonds has once again taken center stage as a Congress leader has alleged that projects worth ₹62,000 crore were awarded by the Union government under the post-paid category. These claims have reignited debates about transparency and accountability in political funding, raising concerns about potential corruption and misuse of public funds. This article delves into the intricacies of electoral bonds, analyzes the specific allegations made by the Congress leader, and explores the broader implications for governance and democracy in India.
 
@@ -81,8 +81,8 @@ Proposed reforms to enhance transparency and accountability in political funding
 - Establishing an independent oversight mechanism to monitor political funding and investigate any irregularities.
 - Implementing stricter penalties for violations of campaign finance laws.
 
-## Thank you for reading ❤️
-### Do share it with your Friends & Family 
+## Thank you ❤️
+### Share 
 
 ```
 https://iambhvsh.vercel.app/posts/electoral-bond-scam-by-indian-political-party-bjp
