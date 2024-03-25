@@ -9,12 +9,12 @@ function Custom404() {
       </Head>
       <div className="text-center">
         <div className="text-center">
-          <h2>404</h2> {/* Decrease font size for better readability */}
-          <p className="text-xl mb-8">The page you're looking for doesn't seem to exist.</p> {/* Decrease font size for better readability */}
+          <h2 className="text-3xl">404</h2> {/* Decrease font size for better readability */}
+          <p className="text-md mb-8 ml-sm mr-sm">The page you're looking for doesn't seem to exist.</p> {/* Decrease font size for better readability */}
         </div>
         <div className="mt-8">
-          <Link href="/" className="px-6 py-3 bg-blue-500 text-white rounded-md hover:bg-blue-700 transition-colors duration-300">
-            Go back to the homepage
+          <Link href="/" className="px-6 py-3 bg-blue-500 text-white rounded-full hover:bg-white transition-colors duration-300">
+            Go back to the home
           </Link>
         </div>
       </div>
