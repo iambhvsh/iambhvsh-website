@@ -1,8 +1,0 @@
-"use strict";(()=>{var e={};e.id=660,e.ids=[660],e.modules={309:(e,t,s)=>{s.d(t,{FT:()=>a,bn:()=>n,vC:()=>r});let r="/assets/blog/meta/meta-image.png",a="iambhvsh | Blog",n="en-CA"},3123:(e,t,s)=>{s.d(t,{LV:()=>a,vt:()=>r});let r=process.env.NEXT_PUBLIC_GA_ID,a=e=>{window.gtag("config",r,{page_path:e})}},6105:(e,t,s)=>{s.r(t),s.d(t,{default:()=>l});var r=s(997),a=s(6859),n=s.n(a),i=s(309),o=s(3123);class l extends n(){render(){return(0,r.jsxs)(a.Html,{lang:i.bn,children:[(0,r.jsxs)(a.Head,{children:[r.jsx("link",{rel:"shortcut icon",href:"/assets/blog/meta/favicon.ico",type:"image/x-icon"}),r.jsx("link",{rel:"stylesheet",href:"https://rsms.me/inter/inter.css"}),r.jsx("link",{rel:"preconnect",href:"https://fonts.googleapis.com"}),r.jsx("link",{href:"https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap",rel:"stylesheet"}),r.jsx("script",{async:!0,src:`https://www.googletagmanager.com/gtag/js?id=${o.vt}`}),r.jsx("script",{dangerouslySetInnerHTML:{__html:`
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-              gtag('config', '${o.vt}', {
-                page_path: window.location.pathname,
-              });
-            `}})]}),(0,r.jsxs)("body",{children:[r.jsx(a.Main,{}),r.jsx(a.NextScript,{})]})]})}}},2785:e=>{e.exports=require("next/dist/compiled/next-server/pages.runtime.prod.js")},6689:e=>{e.exports=require("react")},997:e=>{e.exports=require("react/jsx-runtime")},1017:e=>{e.exports=require("path")}};var t=require("../webpack-runtime.js");t.C(e);var s=e=>t(t.s=e),r=t.X(0,[255,859],()=>s(6105));module.exports=r})();
