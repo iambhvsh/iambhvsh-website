@@ -20,7 +20,6 @@ export default function Index({ allPosts }) {
           <meta name="author" content="Bhavesh Patil" />
           <meta name="robots" content="index, follow" />
           <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-          <link rel="canonical" href="https://iambhvsh.vercel.app" />
           <meta property="og:title" content="iambhvsh | Blog" />
           <meta property="og:description" content="Hi &nbsp;👋🏻&nbsp; I&apos;m Bhavesh Patil. This is my Next.js Blog, where I share insights and discussions on various topics including technology, politics, case studies, and more." />
           <meta property="og:type" content="website" />
