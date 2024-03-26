@@ -1,10 +1,10 @@
 {
-  "name": "sandypockets-nextjs-blog-starter",
+  "name": "iambhvsh-website",
   "version": "1.0.0",
-  "description": "A create-next-app blog starter",
+  "description": "My website built in Next.js",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sandypockets/nextjs-blog-starter/issues"
+    "url": "https://github.com/iambhvsh/iambhvsh-website/issues"
   },
   "scripts": {
     "dev": "next",
@@ -18,9 +18,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sandypockets/nextjs-blog-starter.git"
+    "url": "https://github.com/iambhvsh/iambhvsh-website.git"
   },
-  "homepage": "https://blog-starter.sandypockets.dev",
+  "homepage": "https://iambhvsh.vercel.app",
   "dependencies": {
     "@headlessui/react": "^1.4.0",
     "@heroicons/react": "^1.0.4",
