@@ -42,7 +42,7 @@ export default function About() {
             <Link href="https://getbootstrap.com">
               <a>
                 <Image
-                  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+                  src="/assets/blog/icons/bootstrap.svg"
                   alt="bootstrap"
                   width="40"
                   height="40"
