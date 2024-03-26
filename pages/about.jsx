@@ -38,7 +38,7 @@ export default function About() {
           <p className="text-lg text-white mb-6">A 17-year-old coding enthusiast. Since 2022, I&apos;ve been immersed in the world of coding, exploring various technologies and frameworks.</p>
           <p className="text-lg text-white mb-6">I completed my SSC from MIT Vishwashanti Gurukul School, Chatrapati Sambhajinagar and HSC from DES, High School & Jr. College, Malkapur.</p>
           <h2 className="text-2xl text-white">Tools & Frameworks 🛠️</h2>
-          <div className="flex">
+          <div className="flex mt-5 mb-5">
             <Link href="https://getbootstrap.com">
               <a>
                 <Image
@@ -197,7 +197,7 @@ export default function About() {
               <li className="mb-2"><Link href="https://iambhvsht.vercel.app"><a className="text-blue-500 hover:underline">iambhvsht</a></Link> - Explore the iambhvsht project 🚀</li>
             </ul>
           </div>
-          <p className="text-lg text-white">Follow me on <Link href="https://instagram.com/iambhvsh"><a className="text-blue-500 hover:underline">Instagram</a></Link> & <Link href="https://github.com/iambhvsh"><a className="text-blue-500 hover:underline">Github</a></Link></p>
+          <p className="text-lg text-white">Follow me on <Link href="https://instagram.com/iambhvsh"><a className="text-blue-500 hover:underline italic">Instagram</a></Link> & <Link href="https://github.com/iambhvsh"><a className="text-blue-500 hover:underline italic">Github</a></Link></p>
         </div>
       </Container>
     </Layout>
