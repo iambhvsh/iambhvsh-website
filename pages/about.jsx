@@ -35,9 +35,9 @@ export default function About() {
       <Container>
         <PageHeading>Hey there! I&apos;m Bhavesh Patil 🕊️</PageHeading>
         <div className="container mx-auto py-3 px-4">
-          <p className="text-lg text-white mb-6">A 17-year-old coding enthusiast. Since 2022, I&apos;ve been immersed in the world of coding, exploring various technologies and frameworks.</p>
-          <p className="text-lg text-white mb-6">I completed my SSC from MIT Vishwashanti Gurukul School, Chatrapati Sambhajinagar and HSC from DES, High School & Jr. College, Malkapur.</p>
-          <h2 className="text-2xl text-white">Tools & Frameworks 🛠️</h2>
+          <p className="text-lg mb-6">A 17-year-old coding enthusiast. Since 2022, I&apos;ve been immersed in the world of coding, exploring various technologies and frameworks.</p>
+          <p className="text-lg mb-6">I completed my SSC from MIT Vishwashanti Gurukul School, Chatrapati Sambhajinagar and HSC from DES, High School & Jr. College, Malkapur.</p>
+          <h2 className="text-2xl font-extrabold">Tools & Frameworks 🛠️</h2>
           <div className="flex mt-5 mb-5">
             <Link href="https://getbootstrap.com">
               <a>
@@ -188,7 +188,7 @@ src="/assets/blog/icons/nextjs.svg"
 </Link>
             </div>
           <div className="mb-8">
-            <p className="text-xl font-semibold mb-2">Check out my projects:</p>
+            <p className="text-xl font-extrabold mb-2">Check out my projects:</p>
             <ul className="list-disc pl-4">
               <li className="mb-2"><Link href="https://pixelpulsestore.vercel.app"><a className="text-blue-500 hover:underline">PixelPulse Store - App Store</a></Link> - Discover and explore the PixelPulse Store 📱</li>
               <li className="mb-2"><Link href="https://file-downloaderr.vercel.app"><a className="text-blue-500 hover:underline">File Downloader</a></Link> - Access the File Downloader tool 💾</li>
@@ -197,7 +197,7 @@ src="/assets/blog/icons/nextjs.svg"
               <li className="mb-2"><Link href="https://iambhvsht.vercel.app"><a className="text-blue-500 hover:underline">iambhvsht</a></Link> - Explore the iambhvsht project 🚀</li>
             </ul>
           </div>
-          <p className="text-lg text-white">Follow me on <Link href="https://instagram.com/iambhvsh"><a className="text-blue-500 hover:underline italic">Instagram</a></Link> & <Link href="https://github.com/iambhvsh"><a className="text-blue-500 hover:underline italic">Github</a></Link></p>
+          <p className="text-lg">Follow me on <Link href="https://instagram.com/iambhvsh"><a className="text-blue-500 hover:underline italic">Instagram</a></Link> & <Link href="https://github.com/iambhvsh"><a className="text-blue-500 hover:underline italic">Github</a></Link>.</p>
         </div>
       </Container>
     </Layout>
