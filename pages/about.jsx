@@ -36,7 +36,7 @@ export default function About() {
         <PageHeading>Hey there! I&apos;m Bhavesh Patil 🕊️</PageHeading>
         <div className="container mx-auto py-3 px-4">
           <p className="text-lg text-white mb-6">A 17-year-old coding enthusiast. Since 2022, I&apos;ve been immersed in the world of coding, exploring various technologies and frameworks.</p>
-          <p className="text-lg text-white mb-6">I completed my SSC from MIT Vishwashanti Gurukul School, Chatrapati ti Sambhajinagar and HSC from DES, High School & Jr. College, Malkapur.</p>
+          <p className="text-lg text-white mb-6">I completed my SSC from MIT Vishwashanti Gurukul School, Chatrapati Sambhajinagar and HSC from DES, High School & Jr. College, Malkapur.</p>
           <h2 className="text-2xl text-white">Tools & Frameworks 🛠️</h2>
           <div className="flex">
             <Link href="https://getbootstrap.com">
@@ -67,9 +67,126 @@ export default function About() {
               </a>
             </Link>
 
-            {/* Add similar Link components for other frameworks */}
+<Link href="https://firebase.google.com/">
+  <a>
+    <Image
+      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+      alt="firebase"
+      width="40"
+      height="40"
+      style={{
+        maxWidth: "100%",
+        height: "auto"
+      }}
+    />
+  </a>
+</Link>
 
-          </div>
+<Link href="https://www.w3.org/html/">
+  <a>
+    <Image
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+      alt="html5"
+      width="40"
+      height="40"
+      style={{
+        maxWidth: "100%",
+        height: "auto"
+      }}
+    />
+  </a>
+</Link>
+
+<Link href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <a>
+    <Image
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+      style={{
+        maxWidth: "100%",
+        height: "auto"
+      }}
+    />
+  </a>
+</Link>
+
+<Link href="https://www.linux.org/">
+  <a>
+    <Image
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      alt="linux"
+      width="40"
+      height="40"
+      style={{
+        maxWidth: "100%",
+        height: "auto"
+      }}
+    />
+  </a>
+</Link>
+
+<Link href="https://nextjs.org/">
+  <a>
+    <Image
+      src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+      alt="nextjs"
+      width="40"
+      height="40"
+      style={{
+        maxWidth: "100%",
+        height: "auto"
+      }}
+    />
+  </a>
+</Link>
+
+<Link href="https://reactjs.org/">
+  <a>
+    <Image
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+      style={{
+        maxWidth: "100%",
+        height: "auto"
+      }}
+    />
+  </a>
+</Link>
+
+<Link href="https://tailwindcss.com/">
+  <a>
+    <Image
+      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+      alt="tailwind"
+      width="40"
+      height="40"
+      style={{
+        maxWidth: "100%",
+        height: "auto"
+      }}
+    />
+  </a>
+</Link>
+
+<Link href="https://www.typescriptlang.org/">
+  <a>
+    <Image
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+      style={{
+        maxWidth: "100%",
+        height: "auto"
+      }}
+    />
+  </a>
+</Link>
+            </div>
           <div className="mb-8">
             <p className="text-xl font-semibold mb-2">Check out my projects:</p>
             <ul className="list-disc pl-4">
