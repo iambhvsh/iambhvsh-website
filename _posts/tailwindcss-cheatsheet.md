@@ -267,8 +267,6 @@ ogImage:
 
 **If you still have any Query visit**
 
-```
-https://tailwindcss.com
-```
+> https://tailwindcss.com
 
 **Thank you ❤️**
