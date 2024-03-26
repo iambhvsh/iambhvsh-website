@@ -130,8 +130,8 @@ export default function About() {
 <Link href="https://nextjs.org/">
   <a>
     <Image
-src="https://assets-site.prepr.io/w_1000/2p9a4vmerswi-nextjs-full-logo-header.png"
-      alt="linux"
+src="/assets/blog/icons/nextjs.svg"
+      alt="nextjs"
       width="40"
       height="40"
       style={{
