@@ -22,15 +22,15 @@ ogImage:
    
    I installed it and setuped for minimal installation of **Ubuntu** cause you need to pay 💲for it. So after the setup I updated the packages 📦 using:
    
-   <code>apt-get update</code>
+   > apt-get update
    
    At the end it gave me error, So I used Root mode 🧑🏻‍💻 using:
    
-   <code>sudo su</code>
+   > sudo su
    
    Which gave me access to Root in my unrooted device so I started to continuing updating packages 📦 Now came across no errors. After that I started installing NodeJs for that: 
    
-   <code>sudo apt-get install nodejs</code>
+   > sudo apt-get install nodejs
    
   Again faced errors but this time it got solved, and after that I cloned Starter project provided by **Vercel**. 
   
