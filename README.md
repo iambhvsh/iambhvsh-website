@@ -48,7 +48,7 @@ Open a [*New Issue*](https://github.com/iambhvsh/iambhvsh-website/issues)
 To create post go to <code>_posts</code> directory, create a new file called as <code>new-post.md</code> now code in Markup Language and click the <code>Commit Changes</code> button to save.
 
 Either use this template
-> ***https://iambhvsh.vercel.app/archived/post-template.md***
+> ***[Open Template ❤️](https://raw.githubusercontent.com/iambhvsh/iambhvsh-website/main/public/archived/post-template.md)***
 
 ## Contact 👤
 If you have any questions, feedback, or suggestions regarding the iambhvsh website, feel free to reach out to us at [iambhvshh@outlook.com](mailto:iambhvshh@outlook.com). We appreciate your interest and support!
