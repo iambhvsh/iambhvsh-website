@@ -1,6 +1,6 @@
 ---
 title: "Tailwind CSS - Cheatsheet"
-excerpt: "All Tailwind CSS Classes are expalined in easy way."
+excerpt: "Tailwind CSS Classes and their properties explained in easy way."
 coverImage: "/assets/blog/tailwindcss-cheatsheet/meta-image.png"
 date: "2024-03-17"
 author:
