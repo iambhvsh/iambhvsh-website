@@ -11,9 +11,7 @@ function Custom404() {
           <h2 className="text-4xl">
             The page you’re looking for can’t be found.
           </h2>
-          <div>
             <Link href="/" className="no-underline">Return Home ⟩</Link>
-          </div>
         </div>
       </Container>
     </Navbar>
