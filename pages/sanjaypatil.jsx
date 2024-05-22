@@ -2,7 +2,6 @@
 import Head from 'next/head';
 import Link from 'next/link';
 import Image from "next/image";
-import Container from '../components/Layout/Container';
 import Layout from '../components/Layout/Layout';
 import PageHeading from '../components/PageHeading';
 
@@ -32,12 +31,12 @@ export default function About() {
         <link rel="shortcut icon" href="/assets/blog/meta/favicon.ico" type="image/x-icon" />
         <link rel="canonical" href="https://iambhvsh.vercel.app/sanjaypatil" />
       </Head>
-      <Container>
+      <main>
         <h1 className="italic font-bold text-5xl">
           Sanjay Patil
         </h1>
-        <div className="container mx-auto py-3 px-4">
-          <p className="text-lg mb-6">A 17-year-old coding enthusiast. Since 2022, I&apos;ve been immersed in the world of coding, exploring various technologies and frameworks.</p>
+        <div className="container">
+          <p className="text-lg mb-6">Group Coordinator at Navabharata Fertilizers Limited</p>
           <p className="text-lg mb-6">I completed my SSC from MIT Vishwashanti Gurukul School, Chatrapati Sambhajinagar and HSC from DES, High School & Jr. College, Malkapur.</p>
           <h2 className="text-2xl font-extrabold">Tools & Frameworks 🛠️</h2>
           <div className="flex mt-5 mb-5">
