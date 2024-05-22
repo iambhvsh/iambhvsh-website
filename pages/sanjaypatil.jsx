@@ -33,7 +33,7 @@ export default function About() {
         <link rel="canonical" href="https://iambhvsh.vercel.app/sanjaypatil" />
       </Head>
       <Container>
-        <h1 className="italic font-bold">
+        <h1 className="italic font-bold text-5xl">
           Sanjay Patil
         </h1>
         <div className="container mx-auto py-3 px-4">
