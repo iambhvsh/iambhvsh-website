@@ -7,7 +7,7 @@ function Custom404() {
   return (
     <Layout>
     <Container>
-      <h2 className="text-4xl">
+      <h2 className="text-4xl h-screen text-center">
         The page you’re looking for can’t be found.
       </h2>
     </Container>
