@@ -33,7 +33,9 @@ export default function About() {
         <link rel="canonical" href="https://iambhvsh.vercel.app/sanjaypatil" />
       </Head>
       <Container>
-        <PageHeading>Hey there! I&apos;m Bhavesh Patil 🕊️</PageHeading>
+        <h1 className="italic font-bold">
+          Sanjay Patil
+        </h1>
         <div className="container mx-auto py-3 px-4">
           <p className="text-lg mb-6">A 17-year-old coding enthusiast. Since 2022, I&apos;ve been immersed in the world of coding, exploring various technologies and frameworks.</p>
           <p className="text-lg mb-6">I completed my SSC from MIT Vishwashanti Gurukul School, Chatrapati Sambhajinagar and HSC from DES, High School & Jr. College, Malkapur.</p>
