@@ -6,10 +6,10 @@ import Highlight from '../Utils/Highlight'
 import { useRouter } from 'next/router'
 
 const navigation = [
-  // {
-  //   name: "Home",
-  //   href: "/"
-  // },
+  {
+    name: "Home",
+    href: "/"
+  },
   {
     name: 'About',
     href: '/about',
