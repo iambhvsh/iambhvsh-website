@@ -8,10 +8,9 @@ function Custom404() {
     <Navbar>
       <Container>
         <div className="flex flex-col justify-center items-center h-screen">
-          <h2 className="text-4xl">
+          <h2 className="text-4xl text-bold">
             The page you’re looking for can’t be found.
           </h2>
-            <Link href="/" className="no-underline text-blue-500">Return Home ⟩</Link>
         </div>
       </Container>
     </Navbar>
