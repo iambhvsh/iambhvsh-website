@@ -10,10 +10,18 @@ ogImage:
   url: '/assets/blog/chat-app-in-html-css-and-js/post.jpg'
 ---
 
-In this post we are going to learn that How to Create a Chat App in Html, CSS & JS and use Firebase database to store messages.
+## Introduction:
 
-## Setup
+The Real-Time Chat Application is a web-based platform that enables users to communicate with each other in real-time using text messages. It provides a seamless and interactive chatting experience, fostering instant communication and collaboration between users. The application utilizes HTML, CSS, and JavaScript to create an attractive and user-friendly interface.
 
-• Go to [***Firebase***](https://console.firebase.google.com) Sign in using your Google account.
+## Key Features:
 
-• After Signing in click ***Add Project*** Enter your Project name
+- Stores Username in Localstorage & Firebase
+
+- Real-Time Messaging: The application allows users to send and receive messages instantly, providing a smooth and responsive chat experience
+
+- Gray & Blue Bubbles 💬 UI inspired by Apple Messenger
+
+- Emojis Support
+
+- Message History: The chat application maintains a message history, allowing users to scroll back and view previous conversations.
