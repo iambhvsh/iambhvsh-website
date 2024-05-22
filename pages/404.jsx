@@ -1,8 +1,10 @@
 import Head from 'next/head';
 import Link from 'next/link';
+import Layout from '../components/Layout/Layout';
 
 function Custom404() {
   return (
+    <Layout>
     <div className="flex flex-col items-center justify-center h-screen w-screen bg-black text-white">
       <Head>
         <title>Page Not Found</title>
@@ -19,6 +21,7 @@ function Custom404() {
         </div>
       </div>
     </div>
+  </Layout>
   );
 }
 
