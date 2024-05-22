@@ -41,7 +41,7 @@ export default function Nav({ darkMode, setDarkMode }) {
               <div className="flex">
                 <div className="flex-shrink-0 flex items-center pr-4">
                   <Highlight>
-                    <Link href={'/'} className="text-bold text-2xl">
+                    <Link href={'/'} className="font-bold italic text-2xl">
                       iambhvsh
                     </Link>
                   </Highlight>
