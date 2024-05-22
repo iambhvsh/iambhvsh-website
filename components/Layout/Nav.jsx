@@ -21,6 +21,7 @@ const navigation = [
   {
     name: 'Sanjay Patil',
     href: '/sanjaypatil',
+  },
 ]
 
 function classNames(...classes) {
