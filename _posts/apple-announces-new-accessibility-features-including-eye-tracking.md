@@ -1,13 +1,13 @@
 ---
 title: 'Apple announces new accessibility features, including Eye Tracking, Music Haptics, and Vocal Shortcuts'
 excerpt: 'Coming later this year, Apple’s new accessibility features include Eye Tracking, a way for users to navigate iPad and iPhone with just their eyes.'
-coverImage: 'https://www.apple.com/newsroom/videos/videos-2024/hls/2024/apple-accessibility-features-eye-tracking/US/US/posters/Apple-accessibility-features-iPad-Eye-Tracking_571x321.jpg.large.jpg'
+coverImage: '/assets/blog/apple-announces-new-accessibility-features-including-eye-tracking/thumbnail.jpg'
 date: '2024-05-28T05:35:07.322Z'
 author:
   name: Bhavesh Patil
   picture: '/assets/blog/authors/iambhvsh.png'
 ogImage:
-  url: 'https://www.apple.com/newsroom/videos/videos-2024/hls/2024/apple-accessibility-features-eye-tracking/US/US/posters/Apple-accessibility-features-iPad-Eye-Tracking_571x321.jpg.large.jpg'
+  url: '/assets/blog/apple-announces-new-accessibility-features-including-eye-tracking/thumbnail.jpg'
 ---
 
 ***Apple*** today announced a suite of new accessibility features set to launch later this year. These innovations include Eye Tracking, enabling users with physical disabilities to control their iPad or iPhone using only their eyes. Additionally, Music Haptics will provide an enhanced way for users who are deaf or hard of hearing to experience music through the Taptic Engine on the iPhone. Vocal Shortcuts will allow users to perform tasks by creating custom sounds, while Vehicle Motion Cues aim to mitigate motion sickness when using an iPhone or iPad in a moving vehicle. Further accessibility enhancements will also be integrated into visionOS. These advancements leverage the capabilities of Apple hardware and software, utilizing Apple silicon, artificial intelligence, and machine learning, underscoring Apple’s long-standing commitment to creating inclusive products for all users.
