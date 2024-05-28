@@ -17,11 +17,11 @@ The Real-Time Chat Application is a web-based platform that enables users to com
 ## Key Features:
 
 - Stores Username in Localstorage & Firebase
-
 - Real-Time Messaging: The application allows users to send and receive messages instantly, providing a smooth and responsive chat experience
-
 - Gray & Blue Bubbles 💬 UI inspired by Apple Messenger
-
 - Emojis Support
-
 - Message History: The chat application maintains a message history, allowing users to scroll back and view previous conversations.
+
+## Source Code
+
+### index.html
