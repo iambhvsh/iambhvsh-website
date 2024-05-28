@@ -24,9 +24,8 @@ The Real-Time Chat Application is a web-based platform that enables users to com
 
 ## Source Code
 
-<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="QWRGqzv" data-pen-title="Realtime Chat App" data-editable="true" data-user="iambhvsh-the-encoder" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-
-<span>See the Pen <a href="https://codepen.io/iambhvsh-the-encoder/pen/QWRGqzv">Realtime Chat App</a> by Bhavesh Patil (<a href="https://codepen.io/iambhvsh-the-encoder">@iambhvsh-the-encoder</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<iframe height="300" style="width: 100%;" scrolling="no" title="Realtime Chat App" src="https://codepen.io/iambhvsh-the-encoder/embed/QWRGqzv?default-tab=html%2Cresult&editable=true&theme-id=dark" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href="https://codepen.io/iambhvsh-the-encoder/pen/QWRGqzv">
+  Realtime Chat App</a> by Bhavesh Patil (<a href="https://codepen.io/iambhvsh-the-encoder">@iambhvsh-the-encoder</a>)
+  on <a href="https://codepen.io">CodePen</a>.
+</iframe>
