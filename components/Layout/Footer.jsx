@@ -41,7 +41,7 @@ const navigation = {
 
 export default function Footer() {
   return (
-    <footer className="bg-accent-1 border-t border-accent-2 dark:bg-black dark:text-white dark:border-black h-full pb-10">
+    <footer className="bg-accent-1 border-t border-accent-2 dark:bg-black dark:text-white dark:border-black h-full pb-5">
       <Container>
         <div className="max-w-7xl mx-auto py-12 px-4 overflow-hidden sm:px-6 lg:px-8">
           <nav className="-mx-5 -my-2 flex flex-wrap justify-center" aria-label="Footer">
@@ -68,7 +68,7 @@ export default function Footer() {
             ))}
           </div>
           <p className="mt-8 text-center text-base text-inherit cursor-default">
-            &copy; {new Date().getFullYear()} <Highlight>{BLOG_NAME}</Highlight>, All rights reserved.
+            &copy; {new Date().getFullYear()} <Highlight>iambhvshh@outlook.com</Highlight>, All rights reserved.
           </p>
         </div>
       </Container>
