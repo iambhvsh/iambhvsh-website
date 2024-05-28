@@ -31,7 +31,7 @@ export default function Post({ post, preview }) {
                   {post.title} | {BLOG_NAME}
                 </title>
                 <meta property="og:image" content={post.ogImage.url} />
-                {post.url && <link rel="canonical" href={post.url} />}
+                <link rel="canonical" as={`/${post.slug}`} href={`/${post.slug}`} />
               </Head>
               <PostHeader
                 title={post.title}
@@ -57,7 +57,6 @@ export async function getStaticProps({ params }) {
     'content',
     'ogImage',
     'coverImage',
-    'url', // Add 'url' to fetch the post URL
   ]);
   const content = await markdownToHtml(post.content || '');
 
