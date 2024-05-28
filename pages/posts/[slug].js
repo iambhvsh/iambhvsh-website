@@ -10,6 +10,7 @@ import Layout from '../../components/Layout/Layout';
 import PostBody from '../../components/Post/PostBody';
 import PostHeader from '../../components/Post/PostHeader';
 import PostTitle from '../../components/Post/PostTitle';
+import 'prism-themes/themes/prism-dracula.css';
 
 export default function Post({ post, preview }) {
   const router = useRouter();
