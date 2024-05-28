@@ -55,21 +55,13 @@ These features complement the array of accessibility options already available i
 ## Additional Updates
 
 - For users who are blind or have low vision, VoiceOver will introduce new voices, a versatile Voice Rotor, customizable volume control, and the ability to personalize VoiceOver keyboard shortcuts on Mac.
-
 - Magnifier will feature a new Reader Mode and the convenience of launching Detection Mode easily with the Action button.
-
 - Braille users will benefit from a streamlined method to initiate and remain in Braille Screen Input for enhanced control and text editing. Additionally, Japanese language support will be available for Braille Screen Input, along with multi-line braille capability using Dot Pad and the option to select different input and output tables.
-
 - For users with low vision, Hover Typing will display larger text in the preferred font and color when typing in a text field.
-
 - For users at risk of losing their ability to speak, Personal Voice will be accessible in Mandarin Chinese. Users who struggle with pronouncing or reading complete sentences can create a Personal Voice using abbreviated phrases.
-
 - For nonspeaking users, Live Speech will feature categorized content and simultaneous compatibility with Live Captions.
-
 - For individuals with physical disabilities, Virtual Trackpad for AssistiveTouch empowers users to control their device by utilizing a resizable trackpad on a small region of the screen.
-
 - Switch Control will include an option to utilize the cameras in iPhone and iPad to recognize finger-tap gestures as switches.
-
 - Voice Control will provide support for custom vocabularies and complex words, enhancing its usability for users across diverse contexts and needs.
 
 The array of updates released by Apple underscores their unwavering commitment to inclusivity and accessibility. These enhancements span a wide spectrum of needs, from individuals with physical disabilities to those who are blind, deaf, or at risk of losing their ability to speak. Features such as Eye Tracking, Music Haptics, and Vehicle Motion Cues demonstrate Apple's dedication to leveraging technology to empower users with diverse abilities.
@@ -80,6 +72,5 @@ The addition of Personal Voice in Mandarin Chinese, Live Speech categories, and 
 
 Overall, these updates not only enhance the usability and functionality of Apple devices but also reinforce the company's commitment to creating products that are truly inclusive and empowering for all users.
 
-```
-Note: The stated information provided here is based on the description provided and may vary slightly from the actual announcements made by Apple. For more details contact [iambhvshh@outlook.com](mailto:iambhvshh@outlook.com)
-```
+
+> Note: The stated information provided here is based on the description provided and may vary slightly from the actual announcements made by Apple. For more details contact [*iambhvshh@outlook.com*](mailto:iambhvshh@outlook.com)
