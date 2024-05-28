@@ -81,5 +81,5 @@ The addition of Personal Voice in Mandarin Chinese, Live Speech categories, and 
 Overall, these updates not only enhance the usability and functionality of Apple devices but also reinforce the company's commitment to creating products that are truly inclusive and empowering for all users.
 
 ```
-Note: The stated information provided here is based on the description provided and may vary slightly from the actual announcements made by Apple. For more details contact (mailto:iambhvshh@outlook.com)[iambhvshh@outlook.com]
+Note: The stated information provided here is based on the description provided and may vary slightly from the actual announcements made by Apple. For more details contact [iambhvshh@outlook.com](mailto:iambhvshh@outlook.com)
 ```
