@@ -31,7 +31,7 @@ export default function Post({ post, preview }) {
                   {post.title} | {BLOG_NAME}
                 </title>
                 <meta property="og:image" content={post.ogImage.url} />
-                <link rel="canonical" as={`/${post.slug}`} href={`/${post.slug}`} />
+                <link rel="canonical" as={`/posts/${post.slug}`} href={`/posts/${post.slug}`} />
               </Head>
               <PostHeader
                 title={post.title}
