@@ -16,6 +16,7 @@ export default function Contact() {
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://iambhvsh.vercel.app/contact" />
+        <meta property="og:site_name" content="@iambhvsh" />
         <meta property="og:title" content="Contact" />
         <meta property="og:description" content="Hi, 👋🏻 I'm Bhavesh Patil. Contact me here." />
         <meta property="og:image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRthdy-Yx3whpgJWtyz2vjRVFZOgmQrlC7AZQ&usqp=CAU" />
