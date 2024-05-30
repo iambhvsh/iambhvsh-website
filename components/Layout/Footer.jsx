@@ -67,8 +67,9 @@ export default function Footer() {
               </a>
             ))}
           </div>
+          <p className="text-center m-auto">&copy; {new Date().getFullYear()}</p>
           <p className="mt-8 text-center text-base text-inherit cursor-default">
-            &copy; {new Date().getFullYear()} <Highlight>iambhvshh@outlook.com</Highlight>, All rights reserved.
+            <Highlight>iambhvshh@outlook.com</Highlight>
           </p>
         </div>
       </Container>
