@@ -9,21 +9,21 @@ export default function Contact() {
   return (
     <Layout>
       <Head>
-        <title>Bhavesh Patil - Contact</title>
-        <meta name="title" content="Bhavesh Patil - Contact" />
+        <title>Contact</title>
+        <meta name="title" content="Contact" />
         <meta name="description" content="Hi, 👋🏻 I'm Bhavesh Patil. Contact me here." />
 
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://iambhvsh.vercel.app/contact" />
-        <meta property="og:title" content="Bhavesh Patil - Contact" />
+        <meta property="og:title" content="Contact" />
         <meta property="og:description" content="Hi, 👋🏻 I'm Bhavesh Patil. Contact me here." />
         <meta property="og:image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRthdy-Yx3whpgJWtyz2vjRVFZOgmQrlC7AZQ&usqp=CAU" />
 
         {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://iambhvsh.vercel.app/contact" />
-        <meta property="twitter:title" content="Bhavesh Patil - Contact" />
+        <meta property="twitter:title" content="Contact" />
         <meta property="twitter:description" content="Hi, 👋🏻 I'm Bhavesh Patil. Contact me here." />
         <meta property="twitter:image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRthdy-Yx3whpgJWtyz2vjRVFZOgmQrlC7AZQ&usqp=CAU" />
 
