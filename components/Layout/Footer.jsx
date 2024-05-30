@@ -67,7 +67,7 @@ export default function Footer() {
               </a>
             ))}
           </div>
-          <p className="mt-8 text-center text-base text-inherit cursor-default">
+          <p className="mt-8 text-center text-base text-inherit text-bold italic cursor-default">
             <Highlight>iambhvshh@outlook.com</Highlight>
           </p>
         </div>
