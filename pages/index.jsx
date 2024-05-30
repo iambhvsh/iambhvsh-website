@@ -21,14 +21,14 @@ export default function Index({ allPosts }) {
           <meta name="author" content="Bhavesh Patil" />
           <meta name="robots" content="index, follow" />
           <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-          <meta property="og:title" content="iambhvsh | Blog" />
+          <meta property="og:title" content="Bhavesh Patil" />
           <meta property="og:description" content="Hi &nbsp;👋🏻&nbsp; I&apos;m Bhavesh Patil. This is my Next.js Blog, where I share insights and discussions on various topics including technology, politics, case studies, and more." />
           <meta property="og:type" content="website" />
           <meta property="og:url" content="https://iambhvsh.vercel.app" />
           <meta property="og:image" content="/assets/blog/meta/meta-image.png" />
-          <meta property="og:site_name" content="iambhvsh" />
+          <meta property="og:site_name" content="@iambhvsh" />
           <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:title" content="iambhvsh | Blog" />
+          <meta name="twitter:title" content="Bhavesh Patil" />
           <meta name="twitter:description" content="Hi &nbsp;👋🏻&nbsp; I&apos;m Bhavesh Patil. This is my Next.js Blog, where I share insights and discussions on various topics including technology, politics, case studies, and more." />
           <meta name="twitter:image" content="/assets/blog/meta/meta-image.png" />
           <link rel="shortcut icon" href="/assets/blog/meta/favicon.ico" type="image/x-icon" />
