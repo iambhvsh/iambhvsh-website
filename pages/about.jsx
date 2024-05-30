@@ -11,21 +11,22 @@ export default function About() {
     <Layout>
       <Head>
         {/* Primary Meta Tags */}
-        <title>iambhvsh | About</title>
-        <meta name="title" content="iambhvsh | About" />
+        <title>About</title>
+        <meta name="title" content="About" />
         <meta name="description" content="Hi, 👋🏻 I&apos;m Bhavesh Patil. I&apos;m a Frontend Web Developer..." />
 
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://iambhvsh.vercel.app/about" />
-        <meta property="og:title" content="iambhvsh | About" />
+        <meta property="og:title" content="About" />
+        <meta property="og:site_name" content="@iambhvsh" />
         <meta property="og:description" content="Hi, 👋🏻 I&apos;m Bhavesh Patil. I&apos;m a Frontend Web Developer..." />
         <meta property="og:image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRhyyD7tTOyIzR1on6AL2doqWMXXdTN9CB8w&usqp=CAU" />
 
         {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://iambhvsh.vercel.app/about" />
-        <meta property="twitter:title" content="iambhvsh | About" />
+        <meta property="twitter:title" content="About" />
         <meta property="twitter:description" content="Hi, 👋🏻 I&apos;m Bhavesh Patil. I&apos;m a Frontend Web Developer..." />
         <meta property="twitter:image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRhyyD7tTOyIzR1on6AL2doqWMXXdTN9CB8w&usqp=CAU" />
 
