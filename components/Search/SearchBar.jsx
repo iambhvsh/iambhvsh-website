@@ -7,20 +7,19 @@ export default function SearchBar() {
 
   const handleSearch = (e) => {
     e.preventDefault();
-    // Navigate to search results page with query params
     router.push(`/search?q=${encodeURIComponent(searchQuery)}`);
   };
 
   return (
-    <form onSubmit={handleSearch}>
+    <form onSubmit={handleSearch} className="flex items-center rounded-md border border-gray-300 overflow-hidden w-full sm:w-auto">
       <input
         type="text"
         placeholder="Search..."
         value={searchQuery}
         onChange={(e) => setSearchQuery(e.target.value)}
-        className="px-3 py-1 border border-gray-300 rounded-md focus:outline-none focus:border-indigo-500"
+        className="px-3 py-2 focus:outline-none text-sm text-gray-600 placeholder-gray-500 flex-1"
       />
-      <button type="submit" className="ml-2 px-3 py-1 bg-indigo-500 text-white rounded-md hover:bg-indigo-600 focus:outline-none">
+      <button type="submit" className="px-4 py-2 bg-indigo-500 text-white text-sm font-medium rounded-md focus:outline-none hover:bg-indigo-600 ml-2 mt-2 sm:mt-0">
         Search
       </button>
     </form>
