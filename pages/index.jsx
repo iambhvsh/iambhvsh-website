@@ -5,7 +5,7 @@ import Intro from '../components/Home/Intro';
 import Layout from '../components/Layout/Layout';
 import { getAllPosts } from '../lib/api';
 import Head from 'next/head';
-import SearchBar from '../components/search/SearchBar'; // Import SearchBar component
+import SearchBar from '../components/Search/SearchBar'; // Import SearchBar component
 import { CMS_NAME } from '../lib/constants';
 
 export default function Index({ allPosts }) {
