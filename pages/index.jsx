@@ -1,21 +1,23 @@
-import Container from '../components/Layout/Container'
-import MoreStories from '../components/Home/MoreStories'
-import HeroPost from '../components/Home/HeroPost'
-import Intro from '../components/Home/Intro'
-import Layout from '../components/Layout/Layout'
-import { getAllPosts } from '../lib/api'
-import Head from 'next/head'
-import 'prism-themes/themes/prism-dracula.css';
-import { CMS_NAME } from '../lib/constants'
+import Container from '../components/Layout/Container';
+import MoreStories from '../components/Home/MoreStories';
+import HeroPost from '../components/Home/HeroPost';
+import Intro from '../components/Home/Intro';
+import Layout from '../components/Layout/Layout';
+import { getAllPosts } from '../lib/api';
+import Head from 'next/head';
+import SearchBar from '../components/Search/SearchBar'; // Import SearchBar component
+import { CMS_NAME } from '../lib/constants';
 
 export default function Index({ allPosts }) {
-  const heroPost = allPosts[0]
-  const morePosts = allPosts.slice(1)
+  const heroPost = allPosts[0];
+  const morePosts = allPosts.slice(1);
+
   return (
     <>
       <Layout>
         <Head>
           <title>iambhvsh | Blog</title>
+          {/* Meta tags */}
           <meta name="description" content="Hi &nbsp;👋🏻&nbsp; I&apos;m Bhavesh Patil. This is my Next.js Blog, where I share insights and discussions on various topics including technology, politics, case studies, and more." />
           <meta name="keywords" content="design, development, web, iambhvsh, bhavesh, patil, javascript, indian" />
           <meta name="author" content="Bhavesh Patil" />
@@ -35,6 +37,7 @@ export default function Index({ allPosts }) {
         </Head>
         <Container>
           <Intro />
+          <SearchBar /> {/* Include SearchBar component */}
           {heroPost && (
             <HeroPost
               title={heroPost.title}
@@ -49,7 +52,7 @@ export default function Index({ allPosts }) {
         </Container>
       </Layout>
     </>
-  )
+  );
 }
 
 export async function getStaticProps() {
@@ -60,9 +63,9 @@ export async function getStaticProps() {
     'author',
     'coverImage',
     'excerpt',
-  ])
+  ]);
 
   return {
     props: { allPosts },
-  }
-    }
+  };
+}
