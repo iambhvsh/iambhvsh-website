@@ -8,9 +8,11 @@ export default function Search({ allPosts }) {
   const router = useRouter();
   const { q } = router.query;
 
-  const filteredPosts = allPosts.filter((post) =>
-    post.title.toLowerCase().includes(q.toLowerCase())
-  );
+  const filteredPosts = q
+    ? allPosts.filter((post) =>
+        post.title.toLowerCase().includes(q.toLowerCase())
+      )
+    : [];
 
   return (
     <Layout>
