@@ -53,4 +53,4 @@ Either use this template
 ## Contact 👤
 If you have any questions, feedback, or suggestions regarding the iambhvsh website, feel free to reach out to us at [iambhvshh@outlook.com](mailto:iambhvshh@outlook.com). We appreciate your interest and support!
 
-***Enjoy exploring the ambhvsh website! 🚀***
+***Enjoy exploring the iambhvsh website! 🚀***
