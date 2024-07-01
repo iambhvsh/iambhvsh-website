@@ -48,7 +48,7 @@ export default function Footer() {
             {navigation.main.map((item, index) => (
               <div key={index} className="px-5 py-2">
                 <Link href={item.href}>
-                  <a className="text-base text-blue-500 hover:text-gray-900 dark:hover:text-gray-200">
+                  <a className="text-base text-blue-500 hover:text-gray-900 dark:text-blue-400 dark:hover:text-gray-200">
                     {item.name}
                   </a>
                 </Link>
@@ -60,14 +60,14 @@ export default function Footer() {
               <a
                 key={index}
                 href={item.href}
-                className="text-blue-500 hover:text-gray-500 dark:hover:text-gray-200"
+                className="text-blue-500 hover:text-gray-500 dark:text-blue-400 dark:hover:text-gray-200"
               >
                 <span className="sr-only">{item.name}</span>
                 {item.icon({ className: "h-6 w-6", "aria-hidden": "true" })}
               </a>
             ))}
           </div>
-          <p className="mt-8 text-center text-base text-inherit text-bold italic cursor-default">
+          <p className="mt-8 text-center text-base font-bold italic text-gray-900 dark:text-gray-200">
             <Highlight>iambhvshh@outlook.com</Highlight>
           </p>
         </div>
@@ -75,3 +75,4 @@ export default function Footer() {
     </footer>
   );
 }
+
